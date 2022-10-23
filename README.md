@@ -1,6 +1,6 @@
 # CS-255-Portfolio
 
-Briefly summarize the DriverPass project. Who was the client> What type of system did they want to design?
+Briefly summarize the DriverPass project. Who was the client? What type of system did they want to design?
 
   They were a company that wanted to fill a niche and create a service that helps people in being more prepared to take a test for their driver's license by offering       scheduled on-the-road training and online practice tests.
   
